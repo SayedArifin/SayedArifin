@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sayed Arifin! 👋
 
 ## About Me
-I'm a passionate [Your Profession] who loves to code and build things for the web. I enjoy learning new technologies and sharing knowledge with others.
+I'm a passionate Web Developer who loves to code and build things for the web. I enjoy learning new technologies and sharing knowledge with others.
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -11,9 +11,14 @@ I'm a passionate [Your Profession] who loves to code and build things for the we
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-yellow?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🏆 Featured Projects
 - [Project 1](link-to-project1): Short description
