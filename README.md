@@ -17,15 +17,7 @@ I'm a passionate Web Developer who loves to code and build things for the web. I
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🏆 Featured Projects
-- [Project 1](link-to-project1): Short description
-- [Project 2](link-to-project2): Short description
-- [Project 3](link-to-project3): Short description
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sayedarifin/)
+
